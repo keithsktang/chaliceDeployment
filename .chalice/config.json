@@ -1,0 +1,13 @@
+  /* setup environment_variables on Lambda */
+{
+  "version": "2.0",
+  "app_name": "chaliceDeploy",
+  "environment_variables": {
+  "HEROKU_KEY": "Bearer 05094439-e12b-4997-bf7f-eb6f44bb1d5f"
+},
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  }
+}
