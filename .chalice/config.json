@@ -1,4 +1,3 @@
-  /* setup environment_variables on Lambda */
 {
   "version": "2.0",
   "app_name": "chaliceDeploy",
